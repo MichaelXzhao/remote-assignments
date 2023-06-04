@@ -58,8 +58,17 @@
         padding: 40px;
       }
 
-      .container {
+      .container1 {
         display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-gap: 20px;
+        max-width: 1200px;
+        margin: auto;
+        margin-bottom: 30px;
+      }
+      .container2 {
+        display: none;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(2, 1fr);
         grid-gap: 20px;
@@ -112,7 +121,7 @@
     </div>
 
     <h2>Section Title</h2>
-    <div class="container">
+    <div class="container1">
       <div class="box"><p>Content Box 1</p></div>
       <div class="box"><p>Content Box 2</p></div>
       <div class="box"><p>Content Box 3</p></div>
@@ -121,5 +130,12 @@
     <div class="button">
       <div class="btn"><button>Call to Action</button></div>
     </div>
+    <div class="container2">
+      <div class="box"><p>Content Box 5</p></div>
+      <div class="box"><p>Content Box 6</p></div>
+      <div class="box"><p>Content Box 7</p></div>
+      <div class="box"><p>Content Box 8</p></div>
+    </div>
+    <script src="./app.js"></script>
   </body>
 </html>
