@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Assignment-2</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      .navigator {
+        display: flex;
+        justify-content: space-between;
+
+        background-color: #e0e0e0;
+      }
+
+      .logo {
+        align-self: flex-start;
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-left: 50px;
+        list-style-type: none;
+      }
+
+      .logo a {
+        text-decoration: none;
+        color: black;
+      }
+
+      .menu {
+        display: flex;
+        justify-content: flex-end;
+        list-style-type: none;
+        margin-left: auto;
+        margin-right: 50px;
+      }
+
+      .menu li {
+        margin-left: 60px;
+      }
+
+      .menu a {
+        text-decoration: none;
+        color: black;
+      }
+
+      h1,
+      h2 {
+        display: flex;
+        justify-content: center;
+      }
+
+      .title {
+        background-color: #c3d6e9;
+        padding: 40px;
+      }
+
+      .container1 {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-gap: 20px;
+        max-width: 1200px;
+        margin: auto;
+        margin-bottom: 30px;
+      }
+      .container2 {
+        display: none;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(2, 1fr);
+        grid-gap: 20px;
+        max-width: 1200px;
+        margin: auto;
+        margin-bottom: 30px;
+      }
+
+      .button {
+        display: flex;
+        justify-content: center;
+        margin: auto;
+      }
+
+      .btn {
+        background-color: #c3d6e9;
+        padding: 10px;
+        margin-bottom: 30px;
+      }
+
+      .box {
+        background-color: #7687a1ac;
+        padding: 0px 80px 80px 80px;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+      }
+      button {
+        border: 0;
+        background-color: #c3d6e9;
+        font-size: medium;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navigator">
+      <div class="logo">
+        <a href="#">Website Title / Logo</a>
+      </div>
+      <ul class="menu">
+        <li><a href="#">Item 1</a></li>
+        <li><a href="#">Item 2</a></li>
+        <li><a href="#">Item 3</a></li>
+        <li><a href="#">Item 4</a></li>
+      </ul>
+    </nav>
+
+    <div class="title">
+      <h1>Welcome Message</h1>
+    </div>
+
+    <h2>Section Title</h2>
+    <div class="container1">
+      <div class="box"><p>Content Box 1</p></div>
+      <div class="box"><p>Content Box 2</p></div>
+      <div class="box"><p>Content Box 3</p></div>
+      <div class="box"><p>Content Box 4</p></div>
+    </div>
+    <div class="button">
+      <div class="btn"><button>Call to Action</button></div>
+    </div>
+    <div class="container2">
+      <div class="box"><p>Content Box 5</p></div>
+      <div class="box"><p>Content Box 6</p></div>
+      <div class="box"><p>Content Box 7</p></div>
+      <div class="box"><p>Content Box 8</p></div>
+    </div>
+    <script
+      src="https://code.jquery.com/jquery-3.7.0.min.js"
+      integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g="
+      crossorigin="anonymous"
+    ></script>
+    <script src="./jQuery.js"></script>
+  </body>
+</html>
