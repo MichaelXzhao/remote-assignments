@@ -18,7 +18,13 @@
       function sendRequest() {
         var number = document.getElementById("numberInput").value;
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", "http://localhost:5133/data?number=" + number, true);
+        var port = window.location.port;
+
+        xhr.open(
+          "GET",
+          "http://localhost:" + port + "/data?number=" + number,
+          true
+        );
         xhr.onreadystatechange = function () {
           if (xhr.readyState === 4 && xhr.status === 200) {
             var result = JSON.parse(xhr.responseText);

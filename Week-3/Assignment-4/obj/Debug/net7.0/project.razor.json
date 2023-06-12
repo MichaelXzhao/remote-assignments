@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/obj/Debug/net7.0/project.razor.json",
-  "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Assignment-1.csproj",
+  "SerializedFilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Assignment-4.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,41 +18642,46 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "Assignment_1",
+  "RootNamespace": "Assignment_4",
   "Documents": [
     {
-      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Views/_ViewImports.cshtml",
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-1/Views/Shared/_Layout.cshtml",
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/MyName/Index.cshtml",
+      "TargetPath": "Views\\MyName\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-4/Views/Home/Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
