@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "exh9GxM1AZudCIk9zdcwl9+mh5b+J+IDHP3ycjeRA+s3L6OFgcHSKl/xw7VKMllnL2jaBtwJPyGiuL3Pc2S7mA==",
+  "success": true,
+  "projectFilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-3/Assignment-2/Assignment-2.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelchang/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/michaelchang/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/michaelchang/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/michaelchang/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/michaelchang/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/michaelchang/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/michaelchang/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
