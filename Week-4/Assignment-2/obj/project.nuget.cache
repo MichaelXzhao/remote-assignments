@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUbCJj0TD+5WnvoD0ANLI6Yr6qvFT1OhSBk9oxQcvbYwVU4bcYEGsUzDKeEqdg7vY5IHsuUWcKebPzdWxLW3tw==",
+  "success": true,
+  "projectFilePath": "/Users/michaelchang/Desktop/remote-assignments/Week-4/Assignment-2/Assignment-2.csproj",
+  "expectedPackageFiles": [
+    "/Users/michaelchang/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0/microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "/Users/michaelchang/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
